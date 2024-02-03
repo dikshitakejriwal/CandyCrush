@@ -2,6 +2,8 @@
 
 Welcome to my Candy Crush Clone! This project is a fun, interactive game developed to mimic the classic Candy Crush experience. 
 
+<img width="1184" alt="Screenshot 2024-02-03 at 4 01 49 PM" src="https://github.com/dikshitakejriwal/CandyCrush/assets/62951992/f7484b5b-8c48-4fde-aa0e-e67c0933314e">
+
 ## How to Play
 
 The game is played on a 9x9 board filled with various colored candies. The objective is simple: align three or more candies of the same color vertically or horizontally to crush them and earn points. The game continues with candies falling from the top to fill the empty spaces, allowing for new combinations and chain reactions.
